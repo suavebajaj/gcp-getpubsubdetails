@@ -4,6 +4,8 @@ This sciprt will help you get the details of all the Pub/Sub Queue's in the GCP 
 
 # Usage
 
-Do a gcloud init from the terminal 
+Do a gcloud auth login from the terminal 
 
 chmod +x scriptname.sh
+
+Run the script from the terminal
